@@ -1,0 +1,2 @@
+login.launchpad.net:HSTS	0	16850	1471689524142,1,1
+bugs.launchpad.net:HSTS	0	16850	1471473517350,1,0
