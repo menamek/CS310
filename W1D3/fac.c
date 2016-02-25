@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+
 int fac(int n){
 	int ans = 1;
 	while (n>1){
@@ -10,7 +12,7 @@ int fac(int n){
 int main(){
 	int n;
 	printf("enter num");
-	scanf("%d%",&n);
+	scanf("%d",&n);
 	if (n>=0){
 		int arr[n];
 		for(int m=0; m<=n; m++){
